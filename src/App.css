@@ -1,0 +1,10 @@
+header{
+  /*background-color: rgb(23, 75, 153);*/
+  padding: 2.5em;
+  color: black;
+  box-shadow: 2px 3px 4px 2px black;
+}
+
+.body{
+  text-align: center;
+}

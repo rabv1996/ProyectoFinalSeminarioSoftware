@@ -1,0 +1,61 @@
+base de datos proyecto
+
+coleccion service
+
+documento:
+	  "idClient": "",
+	  "clientName": "",
+	  "serviceDesc":  [
+		      	{
+				"problem": "",
+				"technician":	[
+				    		{
+							"technicianName:" "",
+							"technicianUsr:" "",
+							"evaluation": "",		
+							"cost": ""
+				    		}
+					   	]
+				"date": "",
+	  			"dueDate": "",
+	  			"status": "en espera", // en progreso, cancelado, finalizado
+		      	}
+
+		      	  ]
+	  "telephone": ""
+
+passport para el backend // express.js
+jwt para el frontend //
+
+db.services.insert({"idClient":"0801-1996-0808","clientName":"Gabriela Vasquez","serviceDesc":[{"problem":"", "technician":[{"TechnicianName":"Wilmer Sabillon","TechnicianUsr":"wasn","evaluatioclsn":"Problemas con la conexion de impresora ","cost":"1600"}],"date":"15/04/2018","dueDate":"20/04/2018","status":"en espera"}]})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
